@@ -1,0 +1,4 @@
+# Requirements for the MCU Tamper and Infant Detection system
+logging
+random
+time
